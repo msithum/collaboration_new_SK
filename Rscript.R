@@ -19,5 +19,5 @@ jgsvhxs
 jhsvjs
 
 
-x<-c(1,2,3)
+x<-c(1,2)
 
